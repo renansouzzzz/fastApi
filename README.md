@@ -25,7 +25,7 @@ na maioria das vezes ele retorna um 404 (NÃO ENCONTRADO) ou 400 (SOLICITAÇÃO 
 <br>
 <br>
 
-<h4 style="color:red">Surpreendente saber que com o FastAPI podemos fazer requisições juntamente com nossos dados, sabendo que podemos utilizar
+<h4 style="color:white">Surpreendente saber que com o FastAPI podemos fazer requisições juntamente com nossos dados, sabendo que podemos utilizar
 de outras formas o framework. Mencionei alguns dos métodos baseado no framework, então bora explorar essa ferramenta!</h4>
 
 
