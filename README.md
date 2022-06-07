@@ -26,8 +26,7 @@ na maioria das vezes ele retorna um 404 (NÃO ENCONTRADO) ou 400 (SOLICITAÇÃO 
 <br>
 
 <h4 style="color:red">Surpreendente saber que com o FastAPI podemos fazer requisições juntamente com nossos dados, sabendo que podemos utilizar
-de outras formas o framework.</h4>
+de outras formas o framework. Mencionei alguns dos métodos baseado no framework, então bora explorar essa ferramenta!</h4>
 
-![cowboy](https://tenor.com/view/little-superstar-dance-midget-gif-7173661)
 
 
