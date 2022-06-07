@@ -1,10 +1,1 @@
-<h1>FastAPI</h1>
-
-## Métodos
-
-# GET
-<h6>Oi</h6>
-
-# POST
-
-# DELETE
+<div class="tenor-gif-embed" data-postid="22134820" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mr-bean-bean-surprise-surprise-face-bean-surprise-gif-22134820">Mr Bean Surprise GIF</a>from <a href="https://tenor.com/search/mr+bean-gifs">Mr Bean GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
