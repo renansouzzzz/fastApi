@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 style="color:white">FastAPI - Métodos</h1>
 
 
@@ -28,6 +27,4 @@ na maioria das vezes ele retorna um 404 (NÃO ENCONTRADO) ou 400 (SOLICITAÇÃO 
 de outras formas o framework.</h5>
 
 ![](mr-bean-bean.gif)
-=======
-<div class="tenor-gif-embed" data-postid="22134820" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mr-bean-bean-surprise-surprise-face-bean-surprise-gif-22134820">Mr Bean Surprise GIF</a>from <a href="https://tenor.com/search/mr+bean-gifs">Mr Bean GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
->>>>>>> 45807d7f78f3d0f5d7cdc26e2bef80a0115b2c89
+
