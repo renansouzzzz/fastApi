@@ -3,7 +3,7 @@
 
 <h1 style="color:grey">GET</h1>
 <hr>
-<h6 style="color:white">O método HTTP GET é usado para ler (ou recuperar) uma representação 
+<h6 style="color:white">-O método HTTP GET é usado para ler (ou recuperar) uma representação 
 de um recurso. No caminho “feliz” (ou sem erro), GET retorna uma representação 
 em XML ou JSON e um código de resposta HTTP de 200 (OK). Em um caso de erro, 
 na maioria das vezes ele retorna um 404 (NÃO ENCONTRADO) ou 400 (SOLICITAÇÃO INVÁLIDA).</h6>
