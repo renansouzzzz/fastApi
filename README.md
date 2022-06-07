@@ -1,4 +1,6 @@
 <h1 style="color:white">FastAPI - Métodos</h1>
+<br>
+<br>
 
 
 <h1 style="color:grey">GET</h1>
