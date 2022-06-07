@@ -1,1 +1,7 @@
-# fastApi
+### FastAPI
+
+## Métodos
+
+#GET
+#POST
+#DELETE
