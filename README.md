@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 
 # FastAPI 
+=======
+<h1 style="color:white">FastAPI - Métodos</h1>
+<br>
+<br>
+>>>>>>> 6fe519b28e7de8f42d8dde69a82d42c37b343b6d
 
 
 
@@ -7,6 +13,7 @@
 ## Instalação
 
 
+<<<<<<< HEAD
 ```bash
   pip install fastapi
   pip install uvicorn
@@ -41,4 +48,10 @@ uvicorn app_name:app --reload
 
 
 ![fastapi](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+=======
+<h4 style="color:white">Surpreendente saber que com o FastAPI podemos fazer requisições juntamente com nossos dados, sabendo que podemos utilizar
+de outras formas o framework. Mencionei alguns dos métodos baseado no framework, então bora explorar essa ferramenta!</h4>
+
+
+>>>>>>> 6fe519b28e7de8f42d8dde69a82d42c37b343b6d
 
